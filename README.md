@@ -1,7 +1,7 @@
 # 🎓 Educational Organisation – ServiceNow Project
 
 ## 📘 Overview
-This project is a **ServiceNow application** designed for managing various operations in an educational institution.  
+This project is a **ServiceNow application** designed for managing various operations in an educational institution.   
 It helps automate the **student admission process**, **track academic progress**, and **store student details** efficiently using the ServiceNow App Engine.
 
 ---
